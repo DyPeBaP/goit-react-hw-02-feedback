@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import { Component } from "react";
 import FeedbackOptions from "./components/FeedbackOptions/FeedbackOptions";
 import Notification from "./components/Notification/Notification";
 import Section from "./components/Section/Section";
